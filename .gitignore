@@ -4,7 +4,7 @@ __pycache__/
 *.pyd
 *.log
 .env
-.env.*
+.env.
 /.venv/
 /venv/
 /.idea/
