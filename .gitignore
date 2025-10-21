@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+.env
+.env.*
+/.venv/
+/venv/
+/.idea/
+/.vscode/
+/playwright-report/
+/test-results/
+/node_modules/
+.DS_Store
+/data/
+/tmp/
